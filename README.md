@@ -16,7 +16,7 @@
 ## 补充说明
 * 网页框架基于 React，使用 Creat-React-app 创建；
 * 构成页面的大部分组件来自 ant-design 组件库；
-* 项目已通过 yarn build，在 build 文件夹下用浏览器打开 index 即可运行网页；
+* 项目已通过 yarn build，在 EDTR 文件夹下用浏览器打开 index 即可运行网页；
 * 全部组件源代码位于 src/components 文件夹，核心功能在 RightTab.js 文件中实现；
 * 仓库中不包含 node_modules，如果想重新通过 React 框架运行，则需重新 install；但由于整个项目全程使用 yarn 构建，所以推荐使用 yarn 替代 npm；
 * 另：figma 画的图已导出为 pdf 放在目录下。
