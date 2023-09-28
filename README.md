@@ -14,7 +14,7 @@
 * 链接：只能支持\[链接名称](链接地址)的基本形式
 * 换行：所有换行都以段落的形式实现，所以行间距较宽
 ## 补充说明
-* 网页框架基于 React，使用 Creat-React-app 创建；
+* 网页框架基于 React，使用 creat-react-app 创建；
 * 构成页面的大部分组件来自 ant-design 组件库；
 * 项目已通过 yarn build，在 EDTR 文件夹下用浏览器打开 index 即可运行网页；
 * 全部组件源代码位于 src/components 文件夹，核心功能在 RightTab.js 文件中实现；
